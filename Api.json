@@ -1,0 +1,43 @@
+{
+  "booking": {
+    "pnr": {
+      "from": "chennai",
+      "to": "pune",
+      "tripType": "round-trip",
+      "fromDate": "10-05-2020",
+      "returnDate": "20-05-2020",
+      "flightNo": "AA5634",
+      "passengerDetails": {
+        "name": "nitish",
+        "dob": "01-11-1996",
+        "address": {
+          "streetName": "first street",
+          "cityName": "Pallikaranai",
+          "districtName": "Chennai",
+          "stateName": "Tamil Nadu",
+          "country": "India",
+          "communicationDetails": [
+            {
+              "phone": {
+                "mobileNo": "8056592150",
+                "landlineNo": "04321-234672"
+              }
+            },
+            {
+              "email": {
+                "personal": "nitish@gmail",
+                "official": "niti@gmail.com"
+              }
+            }
+          ]
+        }
+      },
+      "paymentDetails": {
+        "cardName": "VISA",
+        "cardHolderName": "NITISH",
+        "cardNo": "3452678512348907",
+        "cvvNo": "543"
+      }
+    }
+  }
+}

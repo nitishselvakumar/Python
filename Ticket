@@ -1,0 +1,35 @@
+<booking>
+    <from>chennai</from>
+    <to>bangalore</to>
+    <tripType>Round-Trip</tripType>
+    <fromDate>10-05-2020</fromDate>
+    <returnDate>20-05-2020</returnDate>
+    <flightNo>AA7932</flightNo>
+    <passengerDetails>
+        <name>Nitish</name>
+        <dob>01-11-1996</dob>
+        <address>
+            <streetName>200 Feet radial road</streetName>
+            <cityName>Pallikaranai</cityName>
+            <districtName>Chennai</districtName>
+            <stateName>Tamil Nadu</stateName>
+            <Country>India</Country>
+            <communicationDetails>
+                <phone>
+                    <mobileNo>8056592150</mobileNo>
+                    <landlineNo>04321-255732</landlineNo>
+                </phone>
+                <email>
+                    <personal>nitish@gmail.com</personal>
+                    <official>nitishgreens@gmail.com</official>
+                </email>
+            </communicationDetails>
+        </address>
+    </passengerDetails>
+    <paymentDetails>
+        <cardName>VISA</cardName>
+        <cardHolderName>NITISH S</cardHolderName>
+        <cardNo>1234567891234234</cardNo>
+        <cvvNo>526</cvvNo>
+    </paymentDetails>
+</booking>

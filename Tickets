@@ -1,0 +1,142 @@
+<booking>
+    <pnr>
+        <from>chennai</from>
+        <to>bangalore</to>
+        <tripType>Round-Trip</tripType>
+        <fromDate>10-05-2020</fromDate>
+        <returnDate>20-05-2020</returnDate>
+        <flightNo>AA7932</flightNo>
+        <passengerDetails>
+            <name>Nitish</name>
+            <dob>01-11-1996</dob>
+            <address>
+                <streetName>200 Feet radial road</streetName>
+                <cityName>Pallikaranai</cityName>
+                <districtName>Chennai</districtName>
+                <stateName>Tamil Nadu</stateName>
+                <Country>India</Country>
+                <communicationDetails>
+                    <phone>
+                        <mobileNo>8056592150</mobileNo>
+                        <landlineNo>04321-255732</landlineNo>
+                    </phone>
+                    <email>
+                        <personal>nitish@gmail.com</personal>
+                        <official>nitishgreens@gmail.com</official>
+                    </email>
+                </communicationDetails>
+            </address>
+        </passengerDetails>
+        <paymentDetails>
+            <cardName>VISA</cardName>
+            <cardHolderName>NITISH S</cardHolderName>
+            <cardNo>1234567891234234</cardNo>
+            <cvvNo>526</cvvNo>
+        </paymentDetails>
+    </pnr>
+    <pnr>
+        <from>pune</from>
+        <to>bangalore</to>
+        <tripType>Round-Trip</tripType>
+        <fromDate>10-05-2020</fromDate>
+        <returnDate>20-05-2020</returnDate>
+        <flightNo>AA7732</flightNo>
+        <passengerDetails>
+            <name>Harish</name>
+            <dob>25-02-1996</dob>
+            <address>
+                <streetName>100 Feet radial road</streetName>
+                <cityName>Thuraipakkam</cityName>
+                <districtName>Chennai</districtName>
+                <stateName>Tamil Nadu</stateName>
+                <Country>India</Country>
+                <communicationDetails>
+                    <phone>
+                        <mobileNo>8056593432</mobileNo>
+                        <landlineNo>04321-255282</landlineNo>
+                    </phone>
+                    <email>
+                        <personal>harsih@gmail.com</personal>
+                        <official>harishdu@gmail.com</official>
+                    </email>
+                </communicationDetails>
+            </address>
+        </passengerDetails>
+        <paymentDetails>
+            <cardName>VISA</cardName>
+            <cardHolderName>HARISH S</cardHolderName>
+            <cardNo>1234567891234234</cardNo>
+            <cvvNo>556</cvvNo>
+        </paymentDetails>
+    </pnr>
+    <pnr>
+        <from>Madurai</from>
+        <to>bangalore</to>
+        <tripType>Round-Trip</tripType>
+        <fromDate>10-05-2020</fromDate>
+        <returnDate>20-05-2020</returnDate>
+        <flightNo>AA7965</flightNo>
+        <passengerDetails>
+            <name>Merin</name>
+            <dob>31-12-1996</dob>
+            <address>
+                <streetName>Middle Street</streetName>
+                <cityName>Rajapalayam</cityName>
+                <districtName>Rajapalayam</districtName>
+                <stateName>Tamil Nadu</stateName>
+                <Country>India</Country>
+                <communicationDetails>
+                    <phone>
+                        <mobileNo>9056592150</mobileNo>
+                        <landlineNo>04321-255732</landlineNo>
+                    </phone>
+                    <email>
+                        <personal>merinraj@gmail.com</personal>
+                        <official>merinrajhexaware@gmail.com</official>
+                    </email>
+                </communicationDetails>
+            </address>
+        </passengerDetails>
+        <paymentDetails>
+            <cardName>VISA</cardName>
+            <cardHolderName>MERIN S</cardHolderName>
+            <cardNo>1234567891234234</cardNo>
+            <cvvNo>886</cvvNo>
+        </paymentDetails>
+    </pnr>
+    <pnr>
+        <from>Mumbai</from>
+        <to>bangalore</to>
+        <tripType>Round-Trip</tripType>
+        <fromDate>10-05-2020</fromDate>
+        <returnDate>20-05-2020</returnDate>
+        <flightNo>AA7990</flightNo>
+        <passengerDetails>
+            <name>Manoj</name>
+            <dob>01-12-1996</dob>
+            <address>
+                <streetName>Raj Street</streetName>
+                <cityName>Perumbakkam</cityName>
+                <districtName>Chennai</districtName>
+                <stateName>Tamil Nadu</stateName>
+                <Country>India</Country>
+                <communicationDetails>
+                    <phone>
+                        <mobileNo>8056533450</mobileNo>
+                        <landlineNo>04321-265732</landlineNo>
+                    </phone>
+                    <email>
+                        <personal>manoj@gmail.com</personal>
+                        <official>manoj@gmail.com</official>
+                    </email>
+                </communicationDetails>
+            </address>
+        </passengerDetails>
+        <paymentDetails>
+            <cardName>VISA</cardName>
+            <cardHolderName>MANOJ S</cardHolderName>
+            <cardNo>1234567891234234</cardNo>
+            <cvvNo>834</cvvNo>
+        </paymentDetails>
+    </pnr>
+</booking>

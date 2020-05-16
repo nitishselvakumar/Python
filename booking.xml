@@ -1,0 +1,35 @@
+<booking>
+    <from>Mumbai</from>
+    <to>Chennai</to>
+    <tripType>round-trip</tripType>
+    <fromDate>10-06-2020</fromDate>
+    <returnDate>12-06-2020</returnDate>
+    <flightNo>AA5623</flightNo>
+    <passengerDetails>
+        <name>Nitish</name>
+        <dob>01-11-1996</dob>
+        <address>
+            <streetName>200 Feet radial road</streetName>
+            <cityName>pallikaranai</cityName>
+            <districtName>chennai</districtName>
+            <stateName>Tamil Nadu</stateName>
+            <Country>India</Country>
+            <communicationDetails>
+                <phone>
+                    <mobileNo>8056592150</mobileNo>
+                    <landlineNo>04321-234267</landlineNo>
+                </phone>
+                <email>
+                    <personal>nitish@gmail.com</personal>
+                    <official>nitishgreens@gmail.com</official>
+                </email>
+            </communicationDetails>
+        </address>
+    </passengerDetails>
+    <paymentDetails>
+        <cardName>VISA</cardName>
+        <cardHolderName>NITISH S</cardHolderName>
+        <cardNo>1234567890123456</cardNo>
+        <cvvNo>563</cvvNo>
+    </paymentDetails>
+</booking>
